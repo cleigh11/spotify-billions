@@ -1,0 +1,2286 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2022.1">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="139" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>spotify_2023_raw.xlsx
+Query=`spotify-2023$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="track_name" size="255" source="File: C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`" type="V_String" />
+            <Field name="artist(s)_name" size="255" source="File: C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`" type="V_String" />
+            <Field name="artist_count" source="File: C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`" type="Double" />
+            <Field name="released_year" source="File: C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`" type="Double" />
+            <Field name="released_month" source="File: C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`" type="Double" />
+            <Field name="released_day" source="File: C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`" type="Double" />
+            <Field name="in_spotify_playlists" source="File: C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`" type="Double" />
+            <Field name="in_spotify_charts" source="File: C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`" type="Double" />
+            <Field name="streams" size="255" source="File: C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`" type="V_String" />
+            <Field name="in_apple_playlists" source="File: C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`" type="Double" />
+            <Field name="in_apple_charts" source="File: C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`" type="Double" />
+            <Field name="in_deezer_playlists" source="File: C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`" type="Double" />
+            <Field name="in_deezer_charts" source="File: C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`" type="Double" />
+            <Field name="in_shazam_charts" source="File: C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`" type="Double" />
+            <Field name="bpm" source="File: C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`" type="Double" />
+            <Field name="key" size="255" source="File: C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`" type="V_String" />
+            <Field name="mode" size="255" source="File: C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`" type="V_String" />
+            <Field name="danceability_%" source="File: C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`" type="Double" />
+            <Field name="valence_%" source="File: C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`" type="Double" />
+            <Field name="energy_%" source="File: C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`" type="Double" />
+            <Field name="acousticness_%" source="File: C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`" type="Double" />
+            <Field name="instrumentalness_%" source="File: C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`" type="Double" />
+            <Field name="liveness_%" source="File: C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`" type="Double" />
+            <Field name="speechiness_%" source="File: C:\Users\Catherine.Leigh\OneDrive - Southern Glazer's Wine &amp; Spirits\Documents\Tableau\2023 Tableau COE Viz Games\spotify_2023_raw.xlsx|||`spotify-2023$`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="342" y="139" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>&gt;=</Operator>
+            <Field>streams</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2023-10-30 10:53:56</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <StartDate>2023-10-30 10:53:56</StartDate>
+              <EndDate>2023-10-30 10:53:56</EndDate>
+              <Operand>1000000000</Operand>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[streams] &gt;= 1000000000</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="246" y="139" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="artist(s)_name" selected="True" rename="artist_name" />
+            <SelectField field="streams" selected="True" type="Double" size="8" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings>
+        <Position x="150" y="139" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Ranges">2+</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="SelectRecords.yxmc" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1050" y="79" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\CATHER~1.LEI\AppData\Local\Temp\Engine_22516_1087d21881954236a2e6c594ed5aee7e_\Engine_53380_7697869a9477495b8011d91f53cea49b_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="450" y="259" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="4" />
+          <Fields>
+            <Field name="Find" />
+            <Field name="Replace" />
+          </Fields>
+          <Data>
+            <r>
+              <c>Seï¿½ï¿½o</c>
+              <c>Señorita</c>
+            </r>
+            <r>
+              <c>LA CANCIï¿½</c>
+              <c>LA CANCIÓN</c>
+            </r>
+            <r>
+              <c>Titi Me Preguntï¿</c>
+              <c>Tití Me Preguntó</c>
+            </r>
+            <r>
+              <c>ýýýabcdefu</c>
+              <c>abcdefu</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>cleanup track_name</AnnotationText>
+          <DefaultAnnotationText>cleanup track_name</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.FindReplace.FindReplace">
+        <Position x="570" y="175" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldFind>track_name</FieldFind>
+          <FieldSearch>Find</FieldSearch>
+          <ReplaceFoundField>Replace</ReplaceFoundField>
+          <FindMode>FindWhole</FindMode>
+          <NoCase value="False" />
+          <MatchWholeWord value="False" />
+          <ReplaceMode>Replace</ReplaceMode>
+          <ReplaceMultipleFound value="True" />
+          <ReplaceAppendFields />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFindReplace" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="498" y="319" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="4" />
+          <Fields>
+            <Field name="find" />
+            <Field name="replace" />
+          </Fields>
+          <Data>
+            <r>
+              <c>Mï¿½ï¿½ne</c>
+              <c>Måneskin</c>
+            </r>
+            <r>
+              <c>Bomba Estï¿½ï¿½reo, Bad B</c>
+              <c>Bomba Estéreo, Bad Bunny</c>
+            </r>
+            <r>
+              <c>Tiï¿½ï¿</c>
+              <c>Tiësto</c>
+            </r>
+            <r>
+              <c>Tyler, The Creator, Kali Uchis</c>
+              <c>Tyler The Creator, Kali Uchis</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>cleanup artist_name</AnnotationText>
+          <DefaultAnnotationText>cleanup artist_name</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+    <Node ToolID="11">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.FindReplace.FindReplace">
+        <Position x="642" y="175" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldFind>artist_name</FieldFind>
+          <FieldSearch>find</FieldSearch>
+          <ReplaceFoundField>replace</ReplaceFoundField>
+          <FindMode>FindWhole</FindMode>
+          <NoCase value="False" />
+          <MatchWholeWord value="False" />
+          <ReplaceMode>Replace</ReplaceMode>
+          <ReplaceMultipleFound value="True" />
+          <ReplaceAppendFields />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFindReplace" />
+    </Node>
+    <Node ToolID="18">
+      <GuiSettings>
+        <Position x="1158" y="511" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Parameters">
+          <RecordInfo>
+            <Field name="Name" size="7" source="Summarize: GroupBy - Name" type="String" />
+            <Field name="Mean" source="Summarize: Avg - Value" type="Double" />
+            <Field name="SD" source="Summarize: StdDev - Value" type="Double" />
+          </RecordInfo>
+          <SortInfo>
+            <Field field="Name" order="Asc" />
+          </SortInfo>
+        </MetaInfo>
+        <MetaInfo connection="Data">
+          <RecordInfo>
+            <Field name="streams" source="CrossTab:Header:Name:streams:Sum:" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings Macro="C:\Program Files\Alteryx\bin\RuntimeData\Macros\Predictive Tools\Supporting_Macros\Standardize_z-score.yxmc" />
+    </Node>
+    <Node ToolID="19">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1026" y="511" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="streams" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="21">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1278" y="511" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="True">
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="True" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Left_track_name" selected="True" input="Left_" />
+                <SelectField field="Left_artist_count" selected="True" input="Left_" />
+                <SelectField field="Left_released_year" selected="True" input="Left_" />
+                <SelectField field="Left_released_month" selected="True" input="Left_" />
+                <SelectField field="Left_released_day" selected="True" input="Left_" />
+                <SelectField field="Left_in_spotify_playlists" selected="True" input="Left_" />
+                <SelectField field="Left_in_spotify_charts" selected="True" input="Left_" />
+                <SelectField field="Left_bpm" selected="True" input="Left_" />
+                <SelectField field="Left_key" selected="True" input="Left_" />
+                <SelectField field="Left_mode" selected="True" input="Left_" />
+                <SelectField field="Left_danceability_%" selected="True" input="Left_" />
+                <SelectField field="Left_valence_%" selected="True" input="Left_" />
+                <SelectField field="Left_energy_%" selected="True" input="Left_" />
+                <SelectField field="Left_acousticness_%" selected="True" input="Left_" />
+                <SelectField field="Left_instrumentalness_%" selected="True" input="Left_" />
+                <SelectField field="Left_liveness_%" selected="True" input="Left_" />
+                <SelectField field="Left_speechiness_%" selected="True" input="Left_" />
+                <SelectField field="Left_streams" selected="True" input="Left_" />
+                <SelectField field="Right_streams" selected="True" rename="streams_normalized" input="Right_" type="FixedDecimal" size="19.3" />
+                <SelectField field="Left_song_id" selected="True" input="Left_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="31">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="1434" y="583" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>abs([streams_normalized])&lt;=3</Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>abs([streams_normalized])&lt;=3
+remove outliers</AnnotationText>
+          <DefaultAnnotationText>abs([streams_normalized])&lt;=3</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="37">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
+        <Position x="834" y="175" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldName>song_id</FieldName>
+          <StartValue>1</StartValue>
+          <FieldType>Int32</FieldType>
+          <FieldSize>6</FieldSize>
+          <Position>0</Position>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRecordID" />
+    </Node>
+    <Node ToolID="38">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1350" y="103" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="song_id" selected="True" />
+            <SelectField field="artist_name" selected="True" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="39">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="954" y="259" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="in_apple_playlists" selected="False" />
+            <SelectField field="in_apple_charts" selected="False" />
+            <SelectField field="in_deezer_playlists" selected="False" />
+            <SelectField field="in_deezer_charts" selected="False" />
+            <SelectField field="in_shazam_charts" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="40">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextToColumns.TextToColumns">
+        <Position x="1482" y="103" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Field>artist_name</Field>
+          <ErrorHandling>Last</ErrorHandling>
+          <RootName>artist_name</RootName>
+          <Delimeters value="," />
+          <NumFields value="4" />
+          <Flags value="0" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextToColumns" />
+    </Node>
+    <Node ToolID="42">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="738" y="175" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="streams" order="Descending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>streams - Descending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="43">
+      <GuiSettings>
+        <Position x="1590" y="91" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Check Box (135)">False</Value>
+          <Value name="Check Box (136)">False</Value>
+          <Value name="List Box (11)">"artist_name1","artist_name2","artist_name3","artist_name4"</Value>
+          <Value name="Check Box (84)">True</Value>
+          <Value name="Check Box (117)">True</Value>
+          <Value name="Check Box (15)">True</Value>
+          <Value name="Check Box (109)">False</Value>
+          <Value name="Check Box (122)">False</Value>
+          <Value name="Check Box (53)">False</Value>
+          <Value name="Check Box (58)">False</Value>
+          <Value name="Check Box (70)">False</Value>
+          <Value name="Check Box (77)">False</Value>
+          <Value name="Drop Down (81)">upper</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings Macro="Cleanse.yxmc" />
+    </Node>
+    <Node ToolID="44">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Transpose.Transpose">
+        <Position x="1698" y="91" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ErrorWarn>Warn</ErrorWarn>
+          <KeyFields>
+            <Field field="song_id" />
+            <Field field="artist_name" />
+          </KeyFields>
+          <DataFields>
+            <Field field="song_id" selected="False" />
+            <Field field="artist_name" selected="False" />
+            <Field field="artist_name1" selected="True" />
+            <Field field="artist_name2" selected="True" />
+            <Field field="artist_name3" selected="True" />
+            <Field field="artist_name4" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </DataFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTranspose" />
+    </Node>
+    <Node ToolID="45">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="1782" y="91" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>IsNotEmpty</Operator>
+            <Field>Value</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2023-10-30 12:02:08</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>
+              </Operand>
+              <StartDate>2023-10-30 12:02:08</StartDate>
+              <EndDate>2023-10-30 12:02:08</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>!IsEmpty([Value])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="46">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1890" y="79" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="artist_name" selected="False" />
+            <SelectField field="Name" selected="False" />
+            <SelectField field="Value" selected="True" rename="artist_individ" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="47">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="1962" y="271" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="song_id" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="song_id" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_song_id" selected="False" rename="Right_song_id" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="48">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="2142" y="271" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\CATHER~1.LEI\AppData\Local\Temp\Engine_22516_1087d21881954236a2e6c594ed5aee7e_\Engine_53380_aa170da08f594d0197440e0cc2695724_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="65">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="2429" y="125" width="916" height="542" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Network Graph Prep</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="False" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="52">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+            <Position x="2454" y="293" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <OrderChanged value="True" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="song_id" selected="True" />
+                <SelectField field="artist_individ" selected="True" />
+                <SelectField field="artist_name" selected="True" />
+                <SelectField field="track_name" selected="True" />
+                <SelectField field="artist_count" selected="True" />
+                <SelectField field="released_year" selected="False" />
+                <SelectField field="released_month" selected="False" />
+                <SelectField field="released_day" selected="False" />
+                <SelectField field="in_spotify_playlists" selected="False" />
+                <SelectField field="in_spotify_charts" selected="False" />
+                <SelectField field="bpm" selected="False" />
+                <SelectField field="key" selected="False" />
+                <SelectField field="mode" selected="False" />
+                <SelectField field="danceability_%" selected="False" />
+                <SelectField field="valence_%" selected="False" />
+                <SelectField field="energy_%" selected="False" />
+                <SelectField field="acousticness_%" selected="False" />
+                <SelectField field="instrumentalness_%" selected="False" />
+                <SelectField field="liveness_%" selected="False" />
+                <SelectField field="speechiness_%" selected="False" />
+                <SelectField field="streams" selected="True" />
+                <SelectField field="streams_normalized" selected="False" />
+                <SelectField field="*Unknown" selected="False" />
+              </SelectFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+        </Node>
+        <Node ToolID="53">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Unique.Unique">
+            <Position x="2562" y="282" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <UniqueFields>
+                <Field field="artist_individ" />
+              </UniqueFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnique" />
+        </Node>
+        <Node ToolID="54">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+            <Position x="2646" y="174" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <SortInfo locale="1033">
+                <Field field="artist_individ" order="Ascending" />
+              </SortInfo>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>artist_individ - Ascending</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+        </Node>
+        <Node ToolID="56">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+            <Position x="2682" y="438" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <NumRows value="128" />
+              <Fields>
+                <Field name="artist_x" />
+                <Field name="artist_y" />
+                <Field name="artist_individ" />
+              </Fields>
+              <Data>
+                <r>
+                  <c>-955</c>
+                  <c>-984</c>
+                  <c>24kgoldn</c>
+                </r>
+                <r>
+                  <c>590</c>
+                  <c>979</c>
+                  <c>50 Cent</c>
+                </r>
+                <r>
+                  <c>-630</c>
+                  <c>-338</c>
+                  <c>Adele</c>
+                </r>
+                <r>
+                  <c>-994</c>
+                  <c>784</c>
+                  <c>a-ha</c>
+                </r>
+                <r>
+                  <c>312</c>
+                  <c>217</c>
+                  <c>Alec Benjamin</c>
+                </r>
+                <r>
+                  <c>-767</c>
+                  <c>-53</c>
+                  <c>Anderson .Paak</c>
+                </r>
+                <r>
+                  <c>369</c>
+                  <c>300</c>
+                  <c>Arcane</c>
+                </r>
+                <r>
+                  <c>-610</c>
+                  <c>-520</c>
+                  <c>Arctic Monkeys</c>
+                </r>
+                <r>
+                  <c>-693</c>
+                  <c>-39</c>
+                  <c>Ariana Grande</c>
+                </r>
+                <r>
+                  <c>-266</c>
+                  <c>-391</c>
+                  <c>Avicii</c>
+                </r>
+                <r>
+                  <c>-154</c>
+                  <c>-533</c>
+                  <c>Bad Bunny</c>
+                </r>
+                <r>
+                  <c>514</c>
+                  <c>268</c>
+                  <c>Bebe Rexha</c>
+                </r>
+                <r>
+                  <c>522</c>
+                  <c>-301</c>
+                  <c>Billie Eilish</c>
+                </r>
+                <r>
+                  <c>-118</c>
+                  <c>-498</c>
+                  <c>Bizarrap</c>
+                </r>
+                <r>
+                  <c>587</c>
+                  <c>489</c>
+                  <c>Bomba Estéreo</c>
+                </r>
+                <r>
+                  <c>59</c>
+                  <c>-535</c>
+                  <c>Bradley Cooper</c>
+                </r>
+                <r>
+                  <c>568</c>
+                  <c>353</c>
+                  <c>Bruno Mars</c>
+                </r>
+                <r>
+                  <c>453</c>
+                  <c>-830</c>
+                  <c>BTS</c>
+                </r>
+                <r>
+                  <c>-678</c>
+                  <c>-227</c>
+                  <c>Calvin Harris</c>
+                </r>
+                <r>
+                  <c>117</c>
+                  <c>-380</c>
+                  <c>Camila Cabello</c>
+                </r>
+                <r>
+                  <c>-762</c>
+                  <c>24</c>
+                  <c>Chencho Corleone</c>
+                </r>
+                <r>
+                  <c>-472</c>
+                  <c>-379</c>
+                  <c>Chris Molitor</c>
+                </r>
+                <r>
+                  <c>18</c>
+                  <c>56</c>
+                  <c>Coldplay</c>
+                </r>
+                <r>
+                  <c>896</c>
+                  <c>-712</c>
+                  <c>Conan Gray</c>
+                </r>
+                <r>
+                  <c>889</c>
+                  <c>-953</c>
+                  <c>Coolio</c>
+                </r>
+                <r>
+                  <c>-54</c>
+                  <c>289</c>
+                  <c>Creedence Clearwater Revival</c>
+                </r>
+                <r>
+                  <c>376</c>
+                  <c>817</c>
+                  <c>DaBaby</c>
+                </r>
+                <r>
+                  <c>226</c>
+                  <c>-893</c>
+                  <c>Daft Punk</c>
+                </r>
+                <r>
+                  <c>273</c>
+                  <c>-590</c>
+                  <c>Daniel Caesar</c>
+                </r>
+                <r>
+                  <c>-949</c>
+                  <c>-550</c>
+                  <c>David Guetta</c>
+                </r>
+                <r>
+                  <c>-467</c>
+                  <c>513</c>
+                  <c>Doja Cat</c>
+                </r>
+                <r>
+                  <c>-134</c>
+                  <c>-987</c>
+                  <c>Don Omar</c>
+                </r>
+                <r>
+                  <c>57</c>
+                  <c>-459</c>
+                  <c>Dr. Dre</c>
+                </r>
+                <r>
+                  <c>867</c>
+                  <c>134</c>
+                  <c>Drake</c>
+                </r>
+                <r>
+                  <c>-835</c>
+                  <c>87</c>
+                  <c>Dua Lipa</c>
+                </r>
+                <r>
+                  <c>931</c>
+                  <c>939</c>
+                  <c>Ed Sheeran</c>
+                </r>
+                <r>
+                  <c>-689</c>
+                  <c>244</c>
+                  <c>Elton John</c>
+                </r>
+                <r>
+                  <c>-95</c>
+                  <c>-255</c>
+                  <c>Eminem</c>
+                </r>
+                <r>
+                  <c>478</c>
+                  <c>-138</c>
+                  <c>Farruko</c>
+                </r>
+                <r>
+                  <c>861</c>
+                  <c>-757</c>
+                  <c>Gayle</c>
+                </r>
+                <r>
+                  <c>-205</c>
+                  <c>-43</c>
+                  <c>Giveon</c>
+                </r>
+                <r>
+                  <c>78</c>
+                  <c>34</c>
+                  <c>Glass Animals</c>
+                </r>
+                <r>
+                  <c>343</c>
+                  <c>-251</c>
+                  <c>GODZZ__-</c>
+                </r>
+                <r>
+                  <c>-844</c>
+                  <c>-411</c>
+                  <c>Gotye</c>
+                </r>
+                <r>
+                  <c>829</c>
+                  <c>-986</c>
+                  <c>Guns N' Roses</c>
+                </r>
+                <r>
+                  <c>-447</c>
+                  <c>-857</c>
+                  <c>Halsey</c>
+                </r>
+                <r>
+                  <c>-406</c>
+                  <c>911</c>
+                  <c>Harry Styles</c>
+                </r>
+                <r>
+                  <c>999</c>
+                  <c>138</c>
+                  <c>Hozier</c>
+                </r>
+                <r>
+                  <c>600</c>
+                  <c>-554</c>
+                  <c>Huilen Toledo</c>
+                </r>
+                <r>
+                  <c>-258</c>
+                  <c>368</c>
+                  <c>Iann Dior</c>
+                </r>
+                <r>
+                  <c>97</c>
+                  <c>-615</c>
+                  <c>Imagine Dragons</c>
+                </r>
+                <r>
+                  <c>890</c>
+                  <c>-351</c>
+                  <c>J Balvin</c>
+                </r>
+                <r>
+                  <c>-355</c>
+                  <c>197</c>
+                  <c>J. Cole</c>
+                </r>
+                <r>
+                  <c>524</c>
+                  <c>515</c>
+                  <c>Jack Harlow</c>
+                </r>
+                <r>
+                  <c>-243</c>
+                  <c>-784</c>
+                  <c>James Arthur</c>
+                </r>
+                <r>
+                  <c>-708</c>
+                  <c>-671</c>
+                  <c>Jay Rock</c>
+                </r>
+                <r>
+                  <c>-142</c>
+                  <c>491</c>
+                  <c>Jhay Cortez</c>
+                </r>
+                <r>
+                  <c>-81</c>
+                  <c>950</c>
+                  <c>JID</c>
+                </r>
+                <r>
+                  <c>-938</c>
+                  <c>-989</c>
+                  <c>John Legend</c>
+                </r>
+                <r>
+                  <c>-531</c>
+                  <c>106</c>
+                  <c>Joji</c>
+                </r>
+                <r>
+                  <c>692</c>
+                  <c>67</c>
+                  <c>Juan Cruz Toledo</c>
+                </r>
+                <r>
+                  <c>717</c>
+                  <c>146</c>
+                  <c>Juice WRLD</c>
+                </r>
+                <r>
+                  <c>910</c>
+                  <c>-246</c>
+                  <c>Justin Bieber</c>
+                </r>
+                <r>
+                  <c>-390</c>
+                  <c>117</c>
+                  <c>Kali Uchis</c>
+                </r>
+                <r>
+                  <c>652</c>
+                  <c>224</c>
+                  <c>Kate Bush</c>
+                </r>
+                <r>
+                  <c>-731</c>
+                  <c>25</c>
+                  <c>Keane</c>
+                </r>
+                <r>
+                  <c>-705</c>
+                  <c>921</c>
+                  <c>Kendrick Lamar</c>
+                </r>
+                <r>
+                  <c>910</c>
+                  <c>45</c>
+                  <c>Khalid</c>
+                </r>
+                <r>
+                  <c>-417</c>
+                  <c>333</c>
+                  <c>Kim Petras</c>
+                </r>
+                <r>
+                  <c>430</c>
+                  <c>378</c>
+                  <c>Kimbra</c>
+                </r>
+                <r>
+                  <c>-180</c>
+                  <c>234</c>
+                  <c>Kyla</c>
+                </r>
+                <r>
+                  <c>358</c>
+                  <c>534</c>
+                  <c>L.V.</c>
+                </r>
+                <r>
+                  <c>567</c>
+                  <c>305</c>
+                  <c>Lady Gaga</c>
+                </r>
+                <r>
+                  <c>647</c>
+                  <c>324</c>
+                  <c>League of Legends</c>
+                </r>
+                <r>
+                  <c>-403</c>
+                  <c>-246</c>
+                  <c>Lewis Capaldi</c>
+                </r>
+                <r>
+                  <c>-79</c>
+                  <c>887</c>
+                  <c>Lil Nas X</c>
+                </r>
+                <r>
+                  <c>-309</c>
+                  <c>-205</c>
+                  <c>Linkin Park</c>
+                </r>
+                <r>
+                  <c>-546</c>
+                  <c>-678</c>
+                  <c>Lord Huron</c>
+                </r>
+                <r>
+                  <c>-706</c>
+                  <c>659</c>
+                  <c>Lucenzo</c>
+                </r>
+                <r>
+                  <c>-356</c>
+                  <c>254</c>
+                  <c>Macklemore</c>
+                </r>
+                <r>
+                  <c>-887</c>
+                  <c>102</c>
+                  <c>Måneskin</c>
+                </r>
+                <r>
+                  <c>622</c>
+                  <c>-288</c>
+                  <c>Manuel Turizo</c>
+                </r>
+                <r>
+                  <c>-699</c>
+                  <c>-147</c>
+                  <c>Mariah Carey</c>
+                </r>
+                <r>
+                  <c>-769</c>
+                  <c>645</c>
+                  <c>Maroon 5</c>
+                </r>
+                <r>
+                  <c>697</c>
+                  <c>-713</c>
+                  <c>Masked Wolf</c>
+                </r>
+                <r>
+                  <c>-230</c>
+                  <c>777</c>
+                  <c>Miley Cyrus</c>
+                </r>
+                <r>
+                  <c>182</c>
+                  <c>936</c>
+                  <c>Nate Dogg</c>
+                </r>
+                <r>
+                  <c>-55</c>
+                  <c>318</c>
+                  <c>Nirvana</c>
+                </r>
+                <r>
+                  <c>-734</c>
+                  <c>-629</c>
+                  <c>Olivia Rodrigo</c>
+                </r>
+                <r>
+                  <c>-632</c>
+                  <c>-402</c>
+                  <c>One Direction</c>
+                </r>
+                <r>
+                  <c>-756</c>
+                  <c>-347</c>
+                  <c>OneRepublic</c>
+                </r>
+                <r>
+                  <c>-568</c>
+                  <c>187</c>
+                  <c>Pnau</c>
+                </r>
+                <r>
+                  <c>-713</c>
+                  <c>622</c>
+                  <c>Post Malone</c>
+                </r>
+                <r>
+                  <c>917</c>
+                  <c>596</c>
+                  <c>Queen</c>
+                </r>
+                <r>
+                  <c>900</c>
+                  <c>-583</c>
+                  <c>Quevedo</c>
+                </r>
+                <r>
+                  <c>964</c>
+                  <c>-546</c>
+                  <c>Radiohead</c>
+                </r>
+                <r>
+                  <c>570</c>
+                  <c>622</c>
+                  <c>Rauw Alejandro</c>
+                </r>
+                <r>
+                  <c>-138</c>
+                  <c>82</c>
+                  <c>Ray Dalton</c>
+                </r>
+                <r>
+                  <c>315</c>
+                  <c>-517</c>
+                  <c>Rihanna</c>
+                </r>
+                <r>
+                  <c>-888</c>
+                  <c>725</c>
+                  <c>Ruth B.</c>
+                </r>
+                <r>
+                  <c>-735</c>
+                  <c>-24</c>
+                  <c>Ryan Lewis</c>
+                </r>
+                <r>
+                  <c>188</c>
+                  <c>654</c>
+                  <c>Sam Smith</c>
+                </r>
+                <r>
+                  <c>942</c>
+                  <c>-198</c>
+                  <c>Shawn Mendes</c>
+                </r>
+                <r>
+                  <c>367</c>
+                  <c>169</c>
+                  <c>Silk Sonic</c>
+                </r>
+                <r>
+                  <c>-287</c>
+                  <c>-93</c>
+                  <c>Snoop Dogg</c>
+                </r>
+                <r>
+                  <c>577</c>
+                  <c>326</c>
+                  <c>Swae Lee</c>
+                </r>
+                <r>
+                  <c>-732</c>
+                  <c>613</c>
+                  <c>SZA</c>
+                </r>
+                <r>
+                  <c>-264</c>
+                  <c>-541</c>
+                  <c>Tainy</c>
+                </r>
+                <r>
+                  <c>12</c>
+                  <c>379</c>
+                  <c>Tate McRae</c>
+                </r>
+                <r>
+                  <c>-191</c>
+                  <c>-249</c>
+                  <c>Taylor Swift</c>
+                </r>
+                <r>
+                  <c>975</c>
+                  <c>150</c>
+                  <c>Tears For Fears</c>
+                </r>
+                <r>
+                  <c>245</c>
+                  <c>351</c>
+                  <c>The Chainsmokers</c>
+                </r>
+                <r>
+                  <c>-70</c>
+                  <c>947</c>
+                  <c>The Goo Goo Dolls</c>
+                </r>
+                <r>
+                  <c>-971</c>
+                  <c>576</c>
+                  <c>The Kid Laroi</c>
+                </r>
+                <r>
+                  <c>603</c>
+                  <c>671</c>
+                  <c>The Killers</c>
+                </r>
+                <r>
+                  <c>27</c>
+                  <c>863</c>
+                  <c>The Neighbourhood</c>
+                </r>
+                <r>
+                  <c>-605</c>
+                  <c>348</c>
+                  <c>The Police</c>
+                </r>
+                <r>
+                  <c>-686</c>
+                  <c>-393</c>
+                  <c>The Weeknd</c>
+                </r>
+                <r>
+                  <c>-286</c>
+                  <c>-957</c>
+                  <c>Tiësto</c>
+                </r>
+                <r>
+                  <c>44</c>
+                  <c>358</c>
+                  <c>Tom Odell</c>
+                </r>
+                <r>
+                  <c>-782</c>
+                  <c>513</c>
+                  <c>Tones and I</c>
+                </r>
+                <r>
+                  <c>312</c>
+                  <c>-36</c>
+                  <c>Tyler The Creator</c>
+                </r>
+                <r>
+                  <c>338</c>
+                  <c>-9</c>
+                  <c>Vance Joy</c>
+                </r>
+                <r>
+                  <c>557</c>
+                  <c>108</c>
+                  <c>Wham!</c>
+                </r>
+                <r>
+                  <c>-19</c>
+                  <c>220</c>
+                  <c>Wiz Khalifa</c>
+                </r>
+                <r>
+                  <c>-184</c>
+                  <c>945</c>
+                  <c>WizKid</c>
+                </r>
+                <r>
+                  <c>-536</c>
+                  <c>-537</c>
+                  <c>XXXTENTACION</c>
+                </r>
+                <r>
+                  <c>212</c>
+                  <c>-715</c>
+                  <c>Zakaria</c>
+                </r>
+              </Data>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+        </Node>
+        <Node ToolID="59">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+            <Position x="2802" y="330" />
+          </GuiSettings>
+          <Properties>
+            <Configuration joinByRecordPos="False">
+              <JoinInfo connection="Left">
+                <Field field="song_id" />
+              </JoinInfo>
+              <JoinInfo connection="Right">
+                <Field field="song_id" />
+              </JoinInfo>
+              <SelectConfiguration>
+                <Configuration outputConnection="Join">
+                  <OrderChanged value="False" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="Right_song_id" selected="False" rename="Right_song_id" input="Right_" />
+                    <SelectField field="Right_artist_individ" selected="True" rename="collab_artist" input="Right_" />
+                    <SelectField field="Right_artist_name" selected="False" rename="Right_artist_name" input="Right_" />
+                    <SelectField field="Right_track_name" selected="False" rename="Right_track_name" input="Right_" />
+                    <SelectField field="Right_artist_count" selected="False" rename="Right_artist_count" input="Right_" />
+                    <SelectField field="Right_streams" selected="True" rename="Right_streams" input="Right_" />
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+        </Node>
+        <Node ToolID="60">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="2778" y="438" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="[artist_y]" field="circle_y" size="8" type="Int64" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[circle_y = [artist_y]
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="61">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="2982" y="270" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="Min([artist_individ],[collab_artist]) +&quot;-&quot;+ max([artist_individ],[collab_artist])" field="relationship" size="5000" type="V_WString" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>relationship = Min([artist_individ],[collab_artist]) +"-"+ max([artist_individ],...</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="63">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+            <Position x="3090" y="306" />
+          </GuiSettings>
+          <Properties>
+            <Configuration joinByRecordPos="False">
+              <JoinInfo connection="Left">
+                <Field field="artist_individ" />
+              </JoinInfo>
+              <JoinInfo connection="Right">
+                <Field field="artist_individ" />
+              </JoinInfo>
+              <SelectConfiguration>
+                <Configuration outputConnection="Join">
+                  <OrderChanged value="True" />
+                  <CommaDecimal value="False" />
+                  <SelectFields>
+                    <SelectField field="Left_song_id" selected="True" input="Left_" />
+                    <SelectField field="Left_artist_individ" selected="True" input="Left_" />
+                    <SelectField field="Left_artist_name" selected="True" input="Left_" />
+                    <SelectField field="Left_track_name" selected="True" input="Left_" />
+                    <SelectField field="Left_artist_count" selected="True" input="Left_" />
+                    <SelectField field="Left_collab_artist" selected="True" input="Left_" />
+                    <SelectField field="Left_relationship" selected="True" input="Left_" />
+                    <SelectField field="Right_artist_x" selected="True" input="Right_" />
+                    <SelectField field="Right_artist_y" selected="True" input="Right_" />
+                    <SelectField field="Right_circle_y" selected="True" input="Right_" />
+                    <SelectField field="Right_artist_individ" selected="False" rename="Right_artist_individ" input="Right_" />
+                    <SelectField field="Left_streams" selected="True" input="Left_" />
+                    <SelectField field="Left_Right_streams" selected="False" input="Left_" />
+                    <SelectField field="*Unknown" selected="True" />
+                  </SelectFields>
+                </Configuration>
+              </SelectConfiguration>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+        </Node>
+        <Node ToolID="64">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+            <Position x="3246" y="222" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <File MaxRecords="" FileFormat="0">.\network.csv</File>
+              <Passwords />
+              <FormatSpecificOptions>
+                <LineEndStyle>CRLF</LineEndStyle>
+                <Delimeter>,</Delimeter>
+                <ForceQuotes>False</ForceQuotes>
+                <HeaderRow>True</HeaderRow>
+                <CodePage>28591</CodePage>
+                <WriteBOM>True</WriteBOM>
+              </FormatSpecificOptions>
+              <MultiFile value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>network.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+        </Node>
+        <Node ToolID="55">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+            <Position x="2754" y="174" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <FormulaFields>
+                <FormulaField expression="RandInt(2000)-1000" field="artist_x" size="8" type="Int64" />
+                <FormulaField expression="RandInt(2000) - 1000" field="artist_y" size="8" type="Int64" />
+              </FormulaFields>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText><![CDATA[artist_x = RandInt(2000)-1000
+artist_y = RandInt(2000) - 1000
+]]></DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+        </Node>
+        <Node ToolID="62">
+          <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+            <Position x="2873" y="509" width="205" height="133" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Caption>Container 62</Caption>
+              <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+              <Disabled value="True" />
+              <Folded value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <ChildNodes>
+            <Node ToolID="57">
+              <GuiSettings>
+                <Position x="2898" y="558" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <Value name="x var">artist_x</Value>
+                  <Value name="y var">artist_y</Value>
+                  <Value name="y binary">False</Value>
+                  <Value name="y level" />
+                  <Value name="reg line">False</Value>
+                  <Value name="smooth line">False</Value>
+                  <Value name="smooth span">50</Value>
+                  <Value name="spread">True</Value>
+                  <Value name="boxplots">False</Value>
+                  <Value name="jitter x">False</Value>
+                  <Value name="jitter y">False</Value>
+                  <Value name="log x">False</Value>
+                  <Value name="log y">False</Value>
+                  <Value name="groups">False</Value>
+                  <Value name="group var">artist_individ</Value>
+                  <Value name="group lines">False</Value>
+                  <Value name="default">True</Value>
+                  <Value name="topleft">False</Value>
+                  <Value name="topright">False</Value>
+                  <Value name="bottomleft">False</Value>
+                  <Value name="bottomright">False</Value>
+                  <Value name="x label" />
+                  <Value name="y label" />
+                  <Value name="pointsize">10</Value>
+                  <Value name="point size">1.0</Value>
+                  <Value name="axis text size">1.2</Value>
+                  <Value name="axis label size">1.3</Value>
+                  <Value name="title size">1.4</Value>
+                  <Value name="inches">True</Value>
+                  <Value name="in.w">5.50</Value>
+                  <Value name="in.h">5.50</Value>
+                  <Value name="centimeters">False</Value>
+                  <Value name="cm.w">13.00</Value>
+                  <Value name="cm.h">14.95</Value>
+                  <Value name="graph.resolution">1x</Value>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+              </Properties>
+              <EngineSettings Macro="Predictive Tools\Scatterplot.yxmc" />
+            </Node>
+            <Node ToolID="58">
+              <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+                <Position x="2994" y="558" />
+              </GuiSettings>
+              <Properties>
+                <Configuration>
+                  <TempFile>C:\Users\CATHER~1.LEI\AppData\Local\Temp\Engine_53032_ca11b33c7e7d4e3f8551af8f3a8b3f12_\Engine_53380_1e8ac24711ab44cf931d25e56f54c049_.yxdb</TempFile>
+                  <TempFileDataProfiling />
+                  <Layout>
+                    <ViewMode>Single</ViewMode>
+                    <ViewSize value="100" />
+                    <View1>
+                      <DefaultTab>Report</DefaultTab>
+                      <Hints>
+                        <Table />
+                      </Hints>
+                    </View1>
+                    <View2 />
+                  </Layout>
+                </Configuration>
+                <Annotation DisplayMode="0">
+                  <Name />
+                  <DefaultAnnotationText />
+                  <Left value="False" />
+                </Annotation>
+              </Properties>
+              <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+            </Node>
+          </ChildNodes>
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="51">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="1133" y="173" width="277" height="134" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Container 51</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="True" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="14">
+          <GuiSettings>
+            <Position x="1158" y="222" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Value name="field">streams</Value>
+              <Value name="notauto">False</Value>
+              <Value name="breaks">1</Value>
+              <Value name="density">True</Value>
+              <Value name="scale">1.0</Value>
+              <Value name="inches">True</Value>
+              <Value name="in.w">5.50</Value>
+              <Value name="in.h">5.50</Value>
+              <Value name="centimeters">False</Value>
+              <Value name="cm.w">13.00</Value>
+              <Value name="cm.h">14.95</Value>
+              <Value name="graph.resolution">1x</Value>
+              <Value name="pointsize">10</Value>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings Macro="Predictive Tools\Histogram.yxmc" />
+        </Node>
+        <Node ToolID="15">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="1326" y="223" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\CATHER~1.LEI\AppData\Local\Temp\Engine_58936_b29bb22d092c43699a2e085557e6628b_\Engine_53380_dec0a3d44e3d4762bd1271e0b6705836_.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Report</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="36">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="2105" y="425" width="154" height="165" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Container 36</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="True" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="35">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+            <Position x="2130" y="474" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <File MaxRecords="" FileFormat="0">.\spotify_2023_clean.csv</File>
+              <Passwords />
+              <FormatSpecificOptions>
+                <LineEndStyle>CRLF</LineEndStyle>
+                <Delimeter>,</Delimeter>
+                <ForceQuotes>False</ForceQuotes>
+                <HeaderRow>True</HeaderRow>
+                <CodePage>65001</CodePage>
+                <WriteBOM>True</WriteBOM>
+              </FormatSpecificOptions>
+              <MultiFile value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>spotify_2023_clean.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="41">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="1709" y="498" width="265" height="325" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Container 41</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="True" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="22">
+          <GuiSettings>
+            <Position x="1758" y="655" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Value name="field">streams_normalized</Value>
+              <Value name="notauto">False</Value>
+              <Value name="breaks">1</Value>
+              <Value name="density">True</Value>
+              <Value name="scale">1.0</Value>
+              <Value name="inches">True</Value>
+              <Value name="in.w">5.50</Value>
+              <Value name="in.h">5.50</Value>
+              <Value name="centimeters">False</Value>
+              <Value name="cm.w">13.00</Value>
+              <Value name="cm.h">14.95</Value>
+              <Value name="graph.resolution">1x</Value>
+              <Value name="pointsize">10</Value>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings Macro="Predictive Tools\Histogram.yxmc" />
+        </Node>
+        <Node ToolID="23">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="1890" y="655" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\CATHER~1.LEI\AppData\Local\Temp\Engine_54756_e5f2fe260acd46138c9ee9832b1df006_\Engine_18816_7b0a229697bb4c2bad88d109dfee1c94_.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Report</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+        <Node ToolID="32">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.PearsonCorrelation.PearsonCorrelation">
+            <Position x="1758" y="739" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Fields orderChanged="False">
+                <Field name="released_month" />
+                <Field name="bpm" />
+                <Field name="danceability_%" />
+                <Field name="valence_%" />
+                <Field name="energy_%" />
+                <Field name="acousticness_%" />
+                <Field name="instrumentalness_%" />
+                <Field name="liveness_%" />
+                <Field name="speechiness_%" />
+                <Field name="streams_normalized" />
+                <Field name="artist_count" selected="False" />
+                <Field name="released_year" selected="False" />
+                <Field name="released_day" selected="False" />
+                <Field name="in_spotify_playlists" selected="False" />
+                <Field name="in_spotify_charts" selected="False" />
+                <Field name="in_apple_playlists" selected="False" />
+                <Field name="in_apple_charts" selected="False" />
+                <Field name="in_deezer_playlists" selected="False" />
+                <Field name="in_deezer_charts" selected="False" />
+                <Field name="in_shazam_charts" selected="False" />
+                <Field name="streams" selected="False" />
+                <Field name="*Unknown" selected="False" />
+              </Fields>
+              <Covariance value="True" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxPearsonCorrelation" />
+        </Node>
+        <Node ToolID="33">
+          <GuiSettings>
+            <Position x="1734" y="571" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <Value name="x var">released_month</Value>
+              <Value name="y var">streams_normalized</Value>
+              <Value name="y binary">False</Value>
+              <Value name="y level" />
+              <Value name="reg line">True</Value>
+              <Value name="smooth line">True</Value>
+              <Value name="smooth span">50</Value>
+              <Value name="spread">True</Value>
+              <Value name="boxplots">True</Value>
+              <Value name="jitter x">False</Value>
+              <Value name="jitter y">False</Value>
+              <Value name="log x">False</Value>
+              <Value name="log y">False</Value>
+              <Value name="groups">False</Value>
+              <Value name="group var">track_name</Value>
+              <Value name="group lines">False</Value>
+              <Value name="default">True</Value>
+              <Value name="topleft">False</Value>
+              <Value name="topright">False</Value>
+              <Value name="bottomleft">False</Value>
+              <Value name="bottomright">False</Value>
+              <Value name="x label" />
+              <Value name="y label" />
+              <Value name="pointsize">10</Value>
+              <Value name="point size">1.0</Value>
+              <Value name="axis text size">1.2</Value>
+              <Value name="axis label size">1.3</Value>
+              <Value name="title size">1.4</Value>
+              <Value name="inches">True</Value>
+              <Value name="in.w">5.50</Value>
+              <Value name="in.h">5.50</Value>
+              <Value name="centimeters">False</Value>
+              <Value name="cm.w">13.00</Value>
+              <Value name="cm.h">14.95</Value>
+              <Value name="graph.resolution">1x</Value>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings Macro="Predictive Tools\Scatterplot.yxmc" />
+        </Node>
+        <Node ToolID="34">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+            <Position x="1854" y="547" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <TempFile>C:\Users\CATHER~1.LEI\AppData\Local\Temp\Engine_54756_e5f2fe260acd46138c9ee9832b1df006_\Engine_18816_ced50d13b6784395bedb6e8b025b845c_.yxdb</TempFile>
+              <TempFileDataProfiling />
+              <Layout>
+                <ViewMode>Single</ViewMode>
+                <ViewSize value="100" />
+                <View1>
+                  <DefaultTab>Report</DefaultTab>
+                  <Hints>
+                    <Table />
+                  </Hints>
+                </View1>
+                <View2 />
+              </Layout>
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText />
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+        </Node>
+      </ChildNodes>
+    </Node>
+    <Node ToolID="50">
+      <GuiSettings Plugin="AlteryxGuiToolkit.ToolContainer.ToolContainer">
+        <Position x="2213" y="54" width="154" height="165" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Caption>Container 36</Caption>
+          <Style TextColor="#314c4a" FillColor="#ecf2f2" BorderColor="#314c4a" Transparency="25" Margin="25" />
+          <Disabled value="True" />
+          <Folded value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <ChildNodes>
+        <Node ToolID="49">
+          <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+            <Position x="2238" y="103" />
+          </GuiSettings>
+          <Properties>
+            <Configuration>
+              <File MaxRecords="" FileFormat="0">.\spotify_2023_clean_nrmlzd.csv</File>
+              <Passwords />
+              <FormatSpecificOptions>
+                <LineEndStyle>CRLF</LineEndStyle>
+                <Delimeter>,</Delimeter>
+                <ForceQuotes>False</ForceQuotes>
+                <HeaderRow>True</HeaderRow>
+                <CodePage>65001</CodePage>
+                <WriteBOM>True</WriteBOM>
+              </FormatSpecificOptions>
+              <MultiFile value="False" />
+            </Configuration>
+            <Annotation DisplayMode="0">
+              <Name />
+              <DefaultAnnotationText>spotify_2023_clean_nrmlzd.csv</DefaultAnnotationText>
+              <Left value="False" />
+            </Annotation>
+          </Properties>
+          <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+        </Node>
+      </ChildNodes>
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="True" />
+      <Destination ToolID="9" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="9" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="11" Connection="Targets" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Output" />
+      <Destination ToolID="11" Connection="Source" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="11" Connection="Output" />
+      <Destination ToolID="42" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="18" Connection="Data" />
+      <Destination ToolID="21" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="Output" />
+      <Destination ToolID="21" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="19" Connection="Output" />
+      <Destination ToolID="18" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="Join" />
+      <Destination ToolID="31" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="Join" />
+      <Destination ToolID="35" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="21" Connection="Join" />
+      <Destination ToolID="47" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="46" Connection="Output" />
+      <Destination ToolID="47" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="31" Connection="True" />
+      <Destination ToolID="22" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="31" Connection="True" />
+      <Destination ToolID="32" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="31" Connection="True" />
+      <Destination ToolID="33" Connection="Data Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="37" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="37" Connection="Output" />
+      <Destination ToolID="38" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="37" Connection="Output" />
+      <Destination ToolID="39" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="38" Connection="Output" />
+      <Destination ToolID="40" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="Output" />
+      <Destination ToolID="19" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="39" Connection="Output" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="40" Connection="Output" />
+      <Destination ToolID="43" Connection="Input2" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="42" Connection="Output" />
+      <Destination ToolID="37" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="43" Connection="Output26" />
+      <Destination ToolID="44" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="44" Connection="Output" />
+      <Destination ToolID="45" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="45" Connection="True" />
+      <Destination ToolID="46" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="47" Connection="Join" />
+      <Destination ToolID="48" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="47" Connection="Join" />
+      <Destination ToolID="49" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="47" Connection="Join" />
+      <Destination ToolID="52" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="52" Connection="Output" />
+      <Destination ToolID="53" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="52" Connection="Output" />
+      <Destination ToolID="59" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="52" Connection="Output" />
+      <Destination ToolID="59" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="53" Connection="Unique" />
+      <Destination ToolID="54" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="54" Connection="Output" />
+      <Destination ToolID="55" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="56" Connection="Output" />
+      <Destination ToolID="60" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="59" Connection="Join" />
+      <Destination ToolID="61" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="60" Connection="Output" />
+      <Destination ToolID="57" Connection="Data Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="60" Connection="Output" />
+      <Destination ToolID="63" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="61" Connection="Output" />
+      <Destination ToolID="63" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="63" Connection="Join" />
+      <Destination ToolID="64" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="57" Connection="Scater Output" />
+      <Destination ToolID="58" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="22" Connection="Output" />
+      <Destination ToolID="23" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="33" Connection="Scater Output" />
+      <Destination ToolID="34" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>data_cleanup</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="649ecd9f-5713-4686-8919-4e624a0c9630" />
+      <Telemetry>
+        <PreviousWorkflowId value="0208c592-238b-4cc9-a0fc-0eea3d395f72" />
+        <OriginWorkflowId value="0208c592-238b-4cc9-a0fc-0eea3d395f72" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

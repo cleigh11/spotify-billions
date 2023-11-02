@@ -1,0 +1,321 @@
+song_id,artist_individ,artist_name,track_name,artist_count,collab_artist,relationship,artist_x,artist_y,circle_y,streams
+52,24kgoldn,"24kgoldn, Iann Dior",Mood (feat. Iann Dior),2,24kgoldn,24kgoldn-24kgoldn,-955,-984,-984,1699402402
+52,24kgoldn,"24kgoldn, Iann Dior",Mood (feat. Iann Dior),2,Iann Dior,24kgoldn-Iann Dior,-955,-984,-984,1699402402
+118,50 Cent,50 Cent,In Da Club,1,50 Cent,50 Cent-50 Cent,590,979,979,1202722675
+74,Adele,Adele,Rolling in the Deep,1,Adele,Adele-Adele,-630,-338,-338,1472799873
+85,Adele,Adele,Easy On Me,1,Adele,Adele-Adele,-630,-338,-338,1406111294
+124,Adele,Adele,Set Fire to the Rain,1,Adele,Adele-Adele,-630,-338,-338,1163620694
+86,Alec Benjamin,Alec Benjamin,Let Me Down Slowly,1,Alec Benjamin,Alec Benjamin-Alec Benjamin,312,217,217,1374581173
+135,Anderson .Paak,"Bruno Mars, Anderson .Paak, Silk Sonic",Leave The Door Open,3,Bruno Mars,Anderson .Paak-Bruno Mars,-767,-53,-53,1115880852
+135,Anderson .Paak,"Bruno Mars, Anderson .Paak, Silk Sonic",Leave The Door Open,3,Anderson .Paak,Anderson .Paak-Anderson .Paak,-767,-53,-53,1115880852
+135,Anderson .Paak,"Bruno Mars, Anderson .Paak, Silk Sonic",Leave The Door Open,3,Silk Sonic,Anderson .Paak-Silk Sonic,-767,-53,-53,1115880852
+111,Arcane,"Imagine Dragons, League of Legends, JID, Arcane",Enemy (with JID) - from the series Arcane League of Legends,4,Imagine Dragons,Arcane-Imagine Dragons,369,300,300,1223481149
+111,Arcane,"Imagine Dragons, League of Legends, JID, Arcane",Enemy (with JID) - from the series Arcane League of Legends,4,League of Legends,Arcane-League of Legends,369,300,300,1223481149
+111,Arcane,"Imagine Dragons, League of Legends, JID, Arcane",Enemy (with JID) - from the series Arcane League of Legends,4,JID,Arcane-JID,369,300,300,1223481149
+111,Arcane,"Imagine Dragons, League of Legends, JID, Arcane",Enemy (with JID) - from the series Arcane League of Legends,4,Arcane,Arcane-Arcane,369,300,300,1223481149
+112,Arcane,"Imagine Dragons, League of Legends, Arcane",Enemy - from the series Arcane League of Legends,3,Imagine Dragons,Arcane-Imagine Dragons,369,300,300,1223481149
+112,Arcane,"Imagine Dragons, League of Legends, Arcane",Enemy - from the series Arcane League of Legends,3,League of Legends,Arcane-League of Legends,369,300,300,1223481149
+112,Arcane,"Imagine Dragons, League of Legends, Arcane",Enemy - from the series Arcane League of Legends,3,Arcane,Arcane-Arcane,369,300,300,1223481149
+46,Arctic Monkeys,Arctic Monkeys,Do I Wanna Know?,1,Arctic Monkeys,Arctic Monkeys-Arctic Monkeys,-610,-520,-520,1788326445
+98,Arctic Monkeys,Arctic Monkeys,I Wanna Be Yours,1,Arctic Monkeys,Arctic Monkeys-Arctic Monkeys,-610,-520,-520,1297026226
+102,Arctic Monkeys,Arctic Monkeys,"Why'd You Only Call Me When You're High?",1,Arctic Monkeys,Arctic Monkeys-Arctic Monkeys,-610,-520,-520,1267333350
+114,Arctic Monkeys,Arctic Monkeys,505,1,Arctic Monkeys,Arctic Monkeys-Arctic Monkeys,-610,-520,-520,1217120710
+106,Ariana Grande,Ariana Grande,positions,1,Ariana Grande,Ariana Grande-Ariana Grande,-693,-39,-39,1252563873
+113,Ariana Grande,"Ariana Grande, The Weeknd",Save Your Tears (with Ariana Grande) (Remix),2,Ariana Grande,Ariana Grande-Ariana Grande,-693,-39,-39,1221813483
+113,Ariana Grande,"Ariana Grande, The Weeknd",Save Your Tears (with Ariana Grande) (Remix),2,The Weeknd,Ariana Grande-The Weeknd,-693,-39,-39,1221813483
+32,Avicii,Avicii,Wake Me Up - Radio Edit,1,Avicii,Avicii-Avicii,-266,-391,-391,1970673297
+76,Avicii,Avicii,The Nights,1,Avicii,Avicii-Avicii,-266,-391,-391,1456081449
+54,BTS,BTS,Dynamite,1,BTS,BTS-BTS,453,-830,-830,1692897992
+128,BTS,BTS,Butter,1,BTS,BTS-BTS,453,-830,-830,1143647827
+141,BTS,"Halsey, BTS",Boy With Luv (feat. Halsey),2,Halsey,BTS-Halsey,453,-830,-830,1065580332
+141,BTS,"Halsey, BTS",Boy With Luv (feat. Halsey),2,BTS,BTS-BTS,453,-830,-830,1065580332
+144,BTS,"Coldplay, BTS",My Universe,2,Coldplay,BTS-Coldplay,453,-830,-830,1061966512
+144,BTS,"Coldplay, BTS",My Universe,2,BTS,BTS-BTS,453,-830,-830,1061966512
+47,Bad Bunny,"Bad Bunny, Jhay Cortez",Dakiti,2,Bad Bunny,Bad Bunny-Bad Bunny,-154,-533,-533,1763363713
+47,Bad Bunny,"Bad Bunny, Jhay Cortez",Dakiti,2,Jhay Cortez,Bad Bunny-Jhay Cortez,-154,-533,-533,1763363713
+80,Bad Bunny,"Chencho Corleone, Bad Bunny",Me Porto Bonito,2,Chencho Corleone,Bad Bunny-Chencho Corleone,-154,-533,-533,1440757818
+80,Bad Bunny,"Chencho Corleone, Bad Bunny",Me Porto Bonito,2,Bad Bunny,Bad Bunny-Bad Bunny,-154,-533,-533,1440757818
+82,Bad Bunny,"J Balvin, Bad Bunny",LA CANCIÓN,2,J Balvin,Bad Bunny-J Balvin,-154,-533,-533,1435127549
+82,Bad Bunny,"J Balvin, Bad Bunny",LA CANCIÓN,2,Bad Bunny,Bad Bunny-Bad Bunny,-154,-533,-533,1435127549
+95,Bad Bunny,"Bad Bunny, Tainy",Callaita,2,Bad Bunny,Bad Bunny-Bad Bunny,-154,-533,-533,1304313953
+95,Bad Bunny,"Bad Bunny, Tainy",Callaita,2,Tainy,Bad Bunny-Tainy,-154,-533,-533,1304313953
+103,Bad Bunny,Bad Bunny,Tití Me Preguntó,1,Bad Bunny,Bad Bunny-Bad Bunny,-154,-533,-533,1264310836
+104,Bad Bunny,Bad Bunny,Yonaguni,1,Bad Bunny,Bad Bunny-Bad Bunny,-154,-533,-533,1260594497
+130,Bad Bunny,"Bomba Estéreo, Bad Bunny",Ojitos Lindos,2,Bomba Estéreo,Bad Bunny-Bomba Estéreo,-154,-533,-533,1133865788
+130,Bad Bunny,"Bomba Estéreo, Bad Bunny",Ojitos Lindos,2,Bad Bunny,Bad Bunny-Bad Bunny,-154,-533,-533,1133865788
+146,Bad Bunny,Bad Bunny,Efecto,1,Bad Bunny,Bad Bunny-Bad Bunny,-154,-533,-533,1047480053
+137,Bebe Rexha,"Bebe Rexha, David Guetta","I'm Good (Blue)",2,Bebe Rexha,Bebe Rexha-Bebe Rexha,514,268,268,1109433169
+137,Bebe Rexha,"Bebe Rexha, David Guetta","I'm Good (Blue)",2,David Guetta,Bebe Rexha-David Guetta,514,268,268,1109433169
+16,Billie Eilish,"Billie Eilish, Khalid",lovely - Bonus Track,2,Billie Eilish,Billie Eilish-Billie Eilish,522,-301,-301,2355719893
+16,Billie Eilish,"Billie Eilish, Khalid",lovely - Bonus Track,2,Khalid,Billie Eilish-Khalid,522,-301,-301,2355719893
+145,Billie Eilish,Billie Eilish,Happier Than Ever,1,Billie Eilish,Billie Eilish-Billie Eilish,522,-301,-301,1056760045
+90,Bizarrap,"Bizarrap, Quevedo","Quevedo: Bzrp Music Sessions, Vol. 52",2,Bizarrap,Bizarrap-Bizarrap,-118,-498,-498,1356565093
+90,Bizarrap,"Bizarrap, Quevedo","Quevedo: Bzrp Music Sessions, Vol. 52",2,Quevedo,Bizarrap-Quevedo,-118,-498,-498,1356565093
+130,Bomba Estéreo,"Bomba Estéreo, Bad Bunny",Ojitos Lindos,2,Bomba Estéreo,Bomba Estéreo-Bomba Estéreo,587,489,489,1133865788
+130,Bomba Estéreo,"Bomba Estéreo, Bad Bunny",Ojitos Lindos,2,Bad Bunny,Bad Bunny-Bomba Estéreo,587,489,489,1133865788
+25,Bradley Cooper,"Lady Gaga, Bradley Cooper",Shallow,2,Lady Gaga,Bradley Cooper-Lady Gaga,59,-535,-535,2159346687
+25,Bradley Cooper,"Lady Gaga, Bradley Cooper",Shallow,2,Bradley Cooper,Bradley Cooper-Bradley Cooper,59,-535,-535,2159346687
+57,Bruno Mars,Bruno Mars,When I Was Your Man,1,Bruno Mars,Bruno Mars-Bruno Mars,568,353,353,1661187319
+59,Bruno Mars,Bruno Mars,Just The Way You Are,1,Bruno Mars,Bruno Mars-Bruno Mars,568,353,353,1641426668
+71,Bruno Mars,Bruno Mars,Locked Out Of Heaven,1,Bruno Mars,Bruno Mars-Bruno Mars,568,353,353,1481349984
+135,Bruno Mars,"Bruno Mars, Anderson .Paak, Silk Sonic",Leave The Door Open,3,Bruno Mars,Bruno Mars-Bruno Mars,568,353,353,1115880852
+135,Bruno Mars,"Bruno Mars, Anderson .Paak, Silk Sonic",Leave The Door Open,3,Anderson .Paak,Anderson .Paak-Bruno Mars,568,353,353,1115880852
+135,Bruno Mars,"Bruno Mars, Anderson .Paak, Silk Sonic",Leave The Door Open,3,Silk Sonic,Bruno Mars-Silk Sonic,568,353,353,1115880852
+142,Bruno Mars,Bruno Mars,Talking To The Moon,1,Bruno Mars,Bruno Mars-Bruno Mars,568,353,353,1062956628
+36,Calvin Harris,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),2,Calvin Harris,Calvin Harris-Calvin Harris,-678,-227,-227,1897517891
+36,Calvin Harris,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),2,Dua Lipa,Calvin Harris-Dua Lipa,-678,-227,-227,1897517891
+108,Calvin Harris,"Rihanna, Calvin Harris",We Found Love,2,Rihanna,Calvin Harris-Rihanna,-678,-227,-227,1235005533
+108,Calvin Harris,"Rihanna, Calvin Harris",We Found Love,2,Calvin Harris,Calvin Harris-Calvin Harris,-678,-227,-227,1235005533
+14,Camila Cabello,"Shawn Mendes, Camila Cabello",Señorita,2,Shawn Mendes,Camila Cabello-Shawn Mendes,117,-380,-380,2484812918
+14,Camila Cabello,"Shawn Mendes, Camila Cabello",Señorita,2,Camila Cabello,Camila Cabello-Camila Cabello,117,-380,-380,2484812918
+80,Chencho Corleone,"Chencho Corleone, Bad Bunny",Me Porto Bonito,2,Chencho Corleone,Chencho Corleone-Chencho Corleone,-762,24,24,1440757818
+80,Chencho Corleone,"Chencho Corleone, Bad Bunny",Me Porto Bonito,2,Bad Bunny,Bad Bunny-Chencho Corleone,-762,24,24,1440757818
+49,Chris Molitor,Chris Molitor,Yellow,1,Chris Molitor,Chris Molitor-Chris Molitor,-472,-379,-379,1755214421
+23,Coldplay,"The Chainsmokers, Coldplay",Something Just Like This,2,The Chainsmokers,Coldplay-The Chainsmokers,18,56,56,2204080728
+23,Coldplay,"The Chainsmokers, Coldplay",Something Just Like This,2,Coldplay,Coldplay-Coldplay,18,56,56,2204080728
+61,Coldplay,Coldplay,The Scientist,1,Coldplay,Coldplay-Coldplay,18,56,56,1608164312
+66,Coldplay,Coldplay,Viva La Vida,1,Coldplay,Coldplay-Coldplay,18,56,56,1592909789
+144,Coldplay,"Coldplay, BTS",My Universe,2,Coldplay,Coldplay-Coldplay,18,56,56,1061966512
+144,Coldplay,"Coldplay, BTS",My Universe,2,BTS,BTS-Coldplay,18,56,56,1061966512
+97,Conan Gray,Conan Gray,Heather,1,Conan Gray,Conan Gray-Conan Gray,896,-712,-712,1301799902
+89,Coolio,"Coolio, L.V.","Gangsta's Paradise",2,Coolio,Coolio-Coolio,889,-953,-953,1357608774
+89,Coolio,"Coolio, L.V.","Gangsta's Paradise",2,L.V.,Coolio-L.V.,889,-953,-953,1357608774
+127,Creedence Clearwater Revival,Creedence Clearwater Revival,Have You Ever Seen The Rain?,1,Creedence Clearwater Revival,Creedence Clearwater Revival-Creedence Clearwater Revival,-54,289,289,1145727611
+44,DaBaby,"Dua Lipa, DaBaby",Levitating (feat. DaBaby),2,Dua Lipa,DaBaby-Dua Lipa,376,817,817,1802514301
+44,DaBaby,"Dua Lipa, DaBaby",Levitating (feat. DaBaby),2,DaBaby,DaBaby-DaBaby,376,817,817,1802514301
+10,Daft Punk,"The Weeknd, Daft Punk",Starboy,2,The Weeknd,Daft Punk-The Weeknd,226,-893,-893,2565529693
+10,Daft Punk,"The Weeknd, Daft Punk",Starboy,2,Daft Punk,Daft Punk-Daft Punk,226,-893,-893,2565529693
+79,Daniel Caesar,"Justin Bieber, Daniel Caesar, Giveon",Peaches (feat. Daniel Caesar & Giveon),3,Justin Bieber,Daniel Caesar-Justin Bieber,273,-590,-590,1445941661
+79,Daniel Caesar,"Justin Bieber, Daniel Caesar, Giveon",Peaches (feat. Daniel Caesar & Giveon),3,Daniel Caesar,Daniel Caesar-Daniel Caesar,273,-590,-590,1445941661
+79,Daniel Caesar,"Justin Bieber, Daniel Caesar, Giveon",Peaches (feat. Daniel Caesar & Giveon),3,Giveon,Daniel Caesar-Giveon,273,-590,-590,1445941661
+137,David Guetta,"Bebe Rexha, David Guetta","I'm Good (Blue)",2,Bebe Rexha,Bebe Rexha-David Guetta,-949,-550,-550,1109433169
+137,David Guetta,"Bebe Rexha, David Guetta","I'm Good (Blue)",2,David Guetta,David Guetta-David Guetta,-949,-550,-550,1109433169
+68,Doja Cat,"SZA, Doja Cat",Kiss Me More (feat. SZA),2,SZA,Doja Cat-SZA,-467,513,513,1575467011
+68,Doja Cat,"SZA, Doja Cat",Kiss Me More (feat. SZA),2,Doja Cat,Doja Cat-Doja Cat,-467,513,513,1575467011
+92,Doja Cat,Doja Cat,Woman,1,Doja Cat,Doja Cat-Doja Cat,-467,513,513,1329090101
+148,Doja Cat,Doja Cat,Need To Know,1,Doja Cat,Doja Cat-Doja Cat,-467,513,513,1042568408
+100,Don Omar,"Don Omar, Lucenzo",Danza Kuduro,2,Don Omar,Don Omar-Don Omar,-134,-987,-987,1279434863
+100,Don Omar,"Don Omar, Lucenzo",Danza Kuduro,2,Lucenzo,Don Omar-Lucenzo,-134,-987,-987,1279434863
+116,Dr. Dre,"Dr. Dre, Snoop Dogg",Still D.R.E.,2,Dr. Dre,Dr. Dre-Dr. Dre,57,-459,-459,1210599487
+116,Dr. Dre,"Dr. Dre, Snoop Dogg",Still D.R.E.,2,Snoop Dogg,Dr. Dre-Snoop Dogg,57,-459,-459,1210599487
+6,Drake,"Drake, WizKid, Kyla",One Dance,3,Drake,Drake-Drake,867,134,134,2713922350
+6,Drake,"Drake, WizKid, Kyla",One Dance,3,WizKid,Drake-WizKid,867,134,134,2713922350
+6,Drake,"Drake, WizKid, Kyla",One Dance,3,Kyla,Drake-Kyla,867,134,134,2713922350
+18,Dua Lipa,Dua Lipa,"Don't Start Now",1,Dua Lipa,Dua Lipa-Dua Lipa,-835,87,87,2303033973
+36,Dua Lipa,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),2,Calvin Harris,Calvin Harris-Dua Lipa,-835,87,87,1897517891
+36,Dua Lipa,"Calvin Harris, Dua Lipa",One Kiss (with Dua Lipa),2,Dua Lipa,Dua Lipa-Dua Lipa,-835,87,87,1897517891
+44,Dua Lipa,"Dua Lipa, DaBaby",Levitating (feat. DaBaby),2,Dua Lipa,Dua Lipa-Dua Lipa,-835,87,87,1802514301
+44,Dua Lipa,"Dua Lipa, DaBaby",Levitating (feat. DaBaby),2,DaBaby,DaBaby-Dua Lipa,-835,87,87,1802514301
+64,Dua Lipa,"Dua Lipa, Elton John, Pnau",Cold Heart - PNAU Remix,3,Dua Lipa,Dua Lipa-Dua Lipa,-835,87,87,1605224506
+64,Dua Lipa,"Dua Lipa, Elton John, Pnau",Cold Heart - PNAU Remix,3,Elton John,Dua Lipa-Elton John,-835,87,87,1605224506
+64,Dua Lipa,"Dua Lipa, Elton John, Pnau",Cold Heart - PNAU Remix,3,Pnau,Dua Lipa-Pnau,-835,87,87,1605224506
+2,Ed Sheeran,Ed Sheeran,Shape of You,1,Ed Sheeran,Ed Sheeran-Ed Sheeran,931,939,939,3562543890
+11,Ed Sheeran,Ed Sheeran,Perfect,1,Ed Sheeran,Ed Sheeran-Ed Sheeran,931,939,939,2559529074
+21,Ed Sheeran,Ed Sheeran,Thinking Out Loud,1,Ed Sheeran,Ed Sheeran-Ed Sheeran,931,939,939,2280566092
+22,Ed Sheeran,Ed Sheeran,Photograph,1,Ed Sheeran,Ed Sheeran-Ed Sheeran,931,939,939,2236667932
+69,Ed Sheeran,Ed Sheeran,Bad Habits,1,Ed Sheeran,Ed Sheeran-Ed Sheeran,931,939,939,1555511105
+96,Ed Sheeran,Ed Sheeran,Shivers,1,Ed Sheeran,Ed Sheeran-Ed Sheeran,931,939,939,1302184087
+64,Elton John,"Dua Lipa, Elton John, Pnau",Cold Heart - PNAU Remix,3,Dua Lipa,Dua Lipa-Elton John,-689,244,244,1605224506
+64,Elton John,"Dua Lipa, Elton John, Pnau",Cold Heart - PNAU Remix,3,Elton John,Elton John-Elton John,-689,244,244,1605224506
+64,Elton John,"Dua Lipa, Elton John, Pnau",Cold Heart - PNAU Remix,3,Pnau,Elton John-Pnau,-689,244,244,1605224506
+40,Eminem,Eminem,Lose Yourself - Soundtrack Version,1,Eminem,Eminem-Eminem,-95,-255,-255,1829992958
+53,Eminem,"Eminem, Nate Dogg","'Till I Collapse",2,Eminem,Eminem-Eminem,-95,-255,-255,1695712020
+53,Eminem,"Eminem, Nate Dogg","'Till I Collapse",2,Nate Dogg,Eminem-Nate Dogg,-95,-255,-255,1695712020
+56,Eminem,Eminem,Without Me,1,Eminem,Eminem-Eminem,-95,-255,-255,1687664027
+83,Eminem,Eminem,The Real Slim Shady,1,Eminem,Eminem-Eminem,-95,-255,-255,1424589568
+107,Eminem,Eminem,Mockingbird,1,Eminem,Eminem-Eminem,-95,-255,-255,1241559043
+94,Farruko,Farruko,Pepas,1,Farruko,Farruko-Farruko,478,-138,-138,1309887447
+120,GODZZ__-,"GODZZ__-, Zakaria",Contection,2,GODZZ__-,GODZZ__--GODZZ__-,343,-251,-251,1180896317
+120,GODZZ__-,"GODZZ__-, Zakaria",Contection,2,Zakaria,GODZZ__--Zakaria,343,-251,-251,1180896317
+152,Gayle,Gayle,abcdefu,1,Gayle,Gayle-Gayle,861,-757,-757,1007612429
+79,Giveon,"Justin Bieber, Daniel Caesar, Giveon",Peaches (feat. Daniel Caesar & Giveon),3,Justin Bieber,Giveon-Justin Bieber,-205,-43,-43,1445941661
+79,Giveon,"Justin Bieber, Daniel Caesar, Giveon",Peaches (feat. Daniel Caesar & Giveon),3,Daniel Caesar,Daniel Caesar-Giveon,-205,-43,-43,1445941661
+79,Giveon,"Justin Bieber, Daniel Caesar, Giveon",Peaches (feat. Daniel Caesar & Giveon),3,Giveon,Giveon-Giveon,-205,-43,-43,1445941661
+12,Glass Animals,Glass Animals,Heat Waves,1,Glass Animals,Glass Animals-Glass Animals,78,34,34,2557975762
+75,Gotye,"Gotye, Kimbra",Somebody That I Used To Know,2,Gotye,Gotye-Gotye,-844,-411,-411,1457139296
+75,Gotye,"Gotye, Kimbra",Somebody That I Used To Know,2,Kimbra,Gotye-Kimbra,-844,-411,-411,1457139296
+70,"Guns N' Roses","Guns N' Roses","Sweet Child O' Mine",1,"Guns N' Roses","Guns N' Roses-Guns N' Roses",829,-986,-986,1553497987
+9,Halsey,"The Chainsmokers, Halsey",Closer,2,The Chainsmokers,Halsey-The Chainsmokers,-447,-857,-857,2591224264
+9,Halsey,"The Chainsmokers, Halsey",Closer,2,Halsey,Halsey-Halsey,-447,-857,-857,2591224264
+141,Halsey,"Halsey, BTS",Boy With Luv (feat. Halsey),2,Halsey,Halsey-Halsey,-447,-857,-857,1065580332
+141,Halsey,"Halsey, BTS",Boy With Luv (feat. Halsey),2,BTS,BTS-Halsey,-447,-857,-857,1065580332
+13,Harry Styles,Harry Styles,As It Was,1,Harry Styles,Harry Styles-Harry Styles,-406,911,911,2513188493
+17,Harry Styles,Harry Styles,Watermelon Sugar,1,Harry Styles,Harry Styles-Harry Styles,-406,911,911,2322580122
+81,Harry Styles,Harry Styles,Adore You,1,Harry Styles,Harry Styles-Harry Styles,-406,911,911,1439191367
+150,Harry Styles,Harry Styles,Falling,1,Harry Styles,Harry Styles-Harry Styles,-406,911,911,1023187129
+26,Hozier,Hozier,Take Me To Church,1,Hozier,Hozier-Hozier,999,138,138,2135158446
+109,Huilen Toledo,"Juan Cruz Toledo, Huilen Toledo",traitor,2,Juan Cruz Toledo,Huilen Toledo-Juan Cruz Toledo,600,-554,-554,1230855859
+109,Huilen Toledo,"Juan Cruz Toledo, Huilen Toledo",traitor,2,Huilen Toledo,Huilen Toledo-Huilen Toledo,600,-554,-554,1230855859
+52,Iann Dior,"24kgoldn, Iann Dior",Mood (feat. Iann Dior),2,24kgoldn,24kgoldn-Iann Dior,-258,368,368,1699402402
+52,Iann Dior,"24kgoldn, Iann Dior",Mood (feat. Iann Dior),2,Iann Dior,Iann Dior-Iann Dior,-258,368,368,1699402402
+8,Imagine Dragons,Imagine Dragons,Believer,1,Imagine Dragons,Imagine Dragons-Imagine Dragons,97,-615,-615,2594040133
+39,Imagine Dragons,Imagine Dragons,Demons,1,Imagine Dragons,Imagine Dragons-Imagine Dragons,97,-615,-615,1840364617
+111,Imagine Dragons,"Imagine Dragons, League of Legends, JID, Arcane",Enemy (with JID) - from the series Arcane League of Legends,4,Imagine Dragons,Imagine Dragons-Imagine Dragons,97,-615,-615,1223481149
+111,Imagine Dragons,"Imagine Dragons, League of Legends, JID, Arcane",Enemy (with JID) - from the series Arcane League of Legends,4,League of Legends,Imagine Dragons-League of Legends,97,-615,-615,1223481149
+111,Imagine Dragons,"Imagine Dragons, League of Legends, JID, Arcane",Enemy (with JID) - from the series Arcane League of Legends,4,JID,Imagine Dragons-JID,97,-615,-615,1223481149
+111,Imagine Dragons,"Imagine Dragons, League of Legends, JID, Arcane",Enemy (with JID) - from the series Arcane League of Legends,4,Arcane,Arcane-Imagine Dragons,97,-615,-615,1223481149
+112,Imagine Dragons,"Imagine Dragons, League of Legends, Arcane",Enemy - from the series Arcane League of Legends,3,Imagine Dragons,Imagine Dragons-Imagine Dragons,97,-615,-615,1223481149
+112,Imagine Dragons,"Imagine Dragons, League of Legends, Arcane",Enemy - from the series Arcane League of Legends,3,League of Legends,Imagine Dragons-League of Legends,97,-615,-615,1223481149
+112,Imagine Dragons,"Imagine Dragons, League of Legends, Arcane",Enemy - from the series Arcane League of Legends,3,Arcane,Arcane-Imagine Dragons,97,-615,-615,1223481149
+82,J Balvin,"J Balvin, Bad Bunny",LA CANCIÓN,2,J Balvin,J Balvin-J Balvin,890,-351,-351,1435127549
+82,J Balvin,"J Balvin, Bad Bunny",LA CANCIÓN,2,Bad Bunny,Bad Bunny-J Balvin,890,-351,-351,1435127549
+45,J. Cole,J. Cole,No Role Modelz,1,J. Cole,J. Cole-J. Cole,-355,197,197,1791000570
+111,JID,"Imagine Dragons, League of Legends, JID, Arcane",Enemy (with JID) - from the series Arcane League of Legends,4,Imagine Dragons,Imagine Dragons-JID,-81,950,950,1223481149
+111,JID,"Imagine Dragons, League of Legends, JID, Arcane",Enemy (with JID) - from the series Arcane League of Legends,4,League of Legends,JID-League of Legends,-81,950,950,1223481149
+111,JID,"Imagine Dragons, League of Legends, JID, Arcane",Enemy (with JID) - from the series Arcane League of Legends,4,JID,JID-JID,-81,950,950,1223481149
+111,JID,"Imagine Dragons, League of Legends, JID, Arcane",Enemy (with JID) - from the series Arcane League of Legends,4,Arcane,Arcane-JID,-81,950,950,1223481149
+41,Jack Harlow,"Jack Harlow, Lil Nas X",INDUSTRY BABY (feat. Jack Harlow),2,Jack Harlow,Jack Harlow-Jack Harlow,524,515,515,1814349763
+41,Jack Harlow,"Jack Harlow, Lil Nas X",INDUSTRY BABY (feat. Jack Harlow),2,Lil Nas X,Jack Harlow-Lil Nas X,524,515,515,1814349763
+15,James Arthur,James Arthur,"Say You Won't Let Go",1,James Arthur,James Arthur-James Arthur,-243,-784,-784,2420461338
+138,Jay Rock,"Kendrick Lamar, Jay Rock",Money Trees,2,Kendrick Lamar,Jay Rock-Kendrick Lamar,-708,-671,-671,1093605526
+138,Jay Rock,"Kendrick Lamar, Jay Rock",Money Trees,2,Jay Rock,Jay Rock-Jay Rock,-708,-671,-671,1093605526
+47,Jhay Cortez,"Bad Bunny, Jhay Cortez",Dakiti,2,Bad Bunny,Bad Bunny-Jhay Cortez,-142,491,491,1763363713
+47,Jhay Cortez,"Bad Bunny, Jhay Cortez",Dakiti,2,Jhay Cortez,Jhay Cortez-Jhay Cortez,-142,491,491,1763363713
+29,John Legend,John Legend,All of Me,1,John Legend,John Legend-John Legend,-938,-989,-989,2086124197
+133,Joji,Joji,SLOW DANCING IN THE DARK,1,Joji,Joji-Joji,-531,106,106,1122364376
+109,Juan Cruz Toledo,"Juan Cruz Toledo, Huilen Toledo",traitor,2,Juan Cruz Toledo,Juan Cruz Toledo-Juan Cruz Toledo,692,67,67,1230855859
+109,Juan Cruz Toledo,"Juan Cruz Toledo, Huilen Toledo",traitor,2,Huilen Toledo,Huilen Toledo-Juan Cruz Toledo,692,67,67,1230855859
+19,Juice WRLD,Juice WRLD,Lucid Dreams,1,Juice WRLD,Juice WRLD-Juice WRLD,717,146,146,2288695111
+7,Justin Bieber,"Justin Bieber, The Kid Laroi",STAY (with Justin Bieber),2,Justin Bieber,Justin Bieber-Justin Bieber,910,-246,-246,2665343922
+7,Justin Bieber,"Justin Bieber, The Kid Laroi",STAY (with Justin Bieber),2,The Kid Laroi,Justin Bieber-The Kid Laroi,910,-246,-246,2665343922
+28,Justin Bieber,Justin Bieber,Love Yourself,1,Justin Bieber,Justin Bieber-Justin Bieber,910,-246,-246,2123309722
+79,Justin Bieber,"Justin Bieber, Daniel Caesar, Giveon",Peaches (feat. Daniel Caesar & Giveon),3,Justin Bieber,Justin Bieber-Justin Bieber,910,-246,-246,1445941661
+79,Justin Bieber,"Justin Bieber, Daniel Caesar, Giveon",Peaches (feat. Daniel Caesar & Giveon),3,Daniel Caesar,Daniel Caesar-Justin Bieber,910,-246,-246,1445941661
+79,Justin Bieber,"Justin Bieber, Daniel Caesar, Giveon",Peaches (feat. Daniel Caesar & Giveon),3,Giveon,Giveon-Justin Bieber,910,-246,-246,1445941661
+123,Justin Bieber,Justin Bieber,Ghost,1,Justin Bieber,Justin Bieber-Justin Bieber,910,-246,-246,1167330737
+147,Kali Uchis,"Tyler The Creator, Kali Uchis",See You Again,3,Tyler The Creator,Kali Uchis-Tyler The Creator,-390,117,117,1047101291
+147,Kali Uchis,"Tyler The Creator, Kali Uchis",See You Again,3,Kali Uchis,Kali Uchis-Kali Uchis,-390,117,117,1047101291
+149,Kate Bush,Kate Bush,Running Up That Hill (A Deal With God),1,Kate Bush,Kate Bush-Kate Bush,652,224,224,1024858327
+139,Keane,Keane,Somewhere Only We Know,1,Keane,Keane-Keane,-731,25,25,1089402494
+35,Kendrick Lamar,Kendrick Lamar,HUMBLE.,1,Kendrick Lamar,Kendrick Lamar-Kendrick Lamar,-705,921,921,1929770265
+138,Kendrick Lamar,"Kendrick Lamar, Jay Rock",Money Trees,2,Kendrick Lamar,Kendrick Lamar-Kendrick Lamar,-705,921,921,1093605526
+138,Kendrick Lamar,"Kendrick Lamar, Jay Rock",Money Trees,2,Jay Rock,Jay Rock-Kendrick Lamar,-705,921,921,1093605526
+16,Khalid,"Billie Eilish, Khalid",lovely - Bonus Track,2,Billie Eilish,Billie Eilish-Khalid,910,45,45,2355719893
+16,Khalid,"Billie Eilish, Khalid",lovely - Bonus Track,2,Khalid,Khalid-Khalid,910,45,45,2355719893
+110,Kim Petras,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),2,Sam Smith,Kim Petras-Sam Smith,-417,333,333,1230675890
+110,Kim Petras,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),2,Kim Petras,Kim Petras-Kim Petras,-417,333,333,1230675890
+75,Kimbra,"Gotye, Kimbra",Somebody That I Used To Know,2,Gotye,Gotye-Kimbra,430,378,378,1457139296
+75,Kimbra,"Gotye, Kimbra",Somebody That I Used To Know,2,Kimbra,Kimbra-Kimbra,430,378,378,1457139296
+6,Kyla,"Drake, WizKid, Kyla",One Dance,3,Drake,Drake-Kyla,-180,234,234,2713922350
+6,Kyla,"Drake, WizKid, Kyla",One Dance,3,WizKid,Kyla-WizKid,-180,234,234,2713922350
+6,Kyla,"Drake, WizKid, Kyla",One Dance,3,Kyla,Kyla-Kyla,-180,234,234,2713922350
+89,L.V.,"Coolio, L.V.","Gangsta's Paradise",2,Coolio,Coolio-L.V.,358,534,534,1357608774
+89,L.V.,"Coolio, L.V.","Gangsta's Paradise",2,L.V.,L.V.-L.V.,358,534,534,1357608774
+25,Lady Gaga,"Lady Gaga, Bradley Cooper",Shallow,2,Lady Gaga,Lady Gaga-Lady Gaga,567,305,305,2159346687
+25,Lady Gaga,"Lady Gaga, Bradley Cooper",Shallow,2,Bradley Cooper,Bradley Cooper-Lady Gaga,567,305,305,2159346687
+111,League of Legends,"Imagine Dragons, League of Legends, JID, Arcane",Enemy (with JID) - from the series Arcane League of Legends,4,Imagine Dragons,Imagine Dragons-League of Legends,647,324,324,1223481149
+111,League of Legends,"Imagine Dragons, League of Legends, JID, Arcane",Enemy (with JID) - from the series Arcane League of Legends,4,League of Legends,League of Legends-League of Legends,647,324,324,1223481149
+111,League of Legends,"Imagine Dragons, League of Legends, JID, Arcane",Enemy (with JID) - from the series Arcane League of Legends,4,JID,JID-League of Legends,647,324,324,1223481149
+111,League of Legends,"Imagine Dragons, League of Legends, JID, Arcane",Enemy (with JID) - from the series Arcane League of Legends,4,Arcane,Arcane-League of Legends,647,324,324,1223481149
+112,League of Legends,"Imagine Dragons, League of Legends, Arcane",Enemy - from the series Arcane League of Legends,3,Imagine Dragons,Imagine Dragons-League of Legends,647,324,324,1223481149
+112,League of Legends,"Imagine Dragons, League of Legends, Arcane",Enemy - from the series Arcane League of Legends,3,League of Legends,League of Legends-League of Legends,647,324,324,1223481149
+112,League of Legends,"Imagine Dragons, League of Legends, Arcane",Enemy - from the series Arcane League of Legends,3,Arcane,Arcane-League of Legends,647,324,324,1223481149
+3,Lewis Capaldi,Lewis Capaldi,Someone You Loved,1,Lewis Capaldi,Lewis Capaldi-Lewis Capaldi,-403,-246,-246,2887241814
+62,Lewis Capaldi,Lewis Capaldi,Before You Go,1,Lewis Capaldi,Lewis Capaldi-Lewis Capaldi,-403,-246,-246,1608045237
+41,Lil Nas X,"Jack Harlow, Lil Nas X",INDUSTRY BABY (feat. Jack Harlow),2,Jack Harlow,Jack Harlow-Lil Nas X,-79,887,887,1814349763
+41,Lil Nas X,"Jack Harlow, Lil Nas X",INDUSTRY BABY (feat. Jack Harlow),2,Lil Nas X,Lil Nas X-Lil Nas X,-79,887,887,1814349763
+50,Lil Nas X,Lil Nas X,MONTERO (Call Me By Your Name),1,Lil Nas X,Lil Nas X-Lil Nas X,-79,887,887,1735441776
+60,Linkin Park,Linkin Park,In The End,1,Linkin Park,Linkin Park-Linkin Park,-309,-205,-205,1624165576
+88,Linkin Park,Linkin Park,Numb,1,Linkin Park,Linkin Park-Linkin Park,-309,-205,-205,1361425037
+84,Lord Huron,Lord Huron,The Night We Met,1,Lord Huron,Lord Huron-Lord Huron,-546,-678,-678,1410088830
+100,Lucenzo,"Don Omar, Lucenzo",Danza Kuduro,2,Don Omar,Don Omar-Lucenzo,-706,659,659,1279434863
+100,Lucenzo,"Don Omar, Lucenzo",Danza Kuduro,2,Lucenzo,Lucenzo-Lucenzo,-706,659,659,1279434863
+33,Macklemore,"Ray Dalton, Ryan Lewis, Macklemore","Can't Hold Us (feat. Ray Dalton)",3,Ray Dalton,Macklemore-Ray Dalton,-356,254,254,1953533826
+33,Macklemore,"Ray Dalton, Ryan Lewis, Macklemore","Can't Hold Us (feat. Ray Dalton)",3,Ryan Lewis,Macklemore-Ryan Lewis,-356,254,254,1953533826
+33,Macklemore,"Ray Dalton, Ryan Lewis, Macklemore","Can't Hold Us (feat. Ray Dalton)",3,Macklemore,Macklemore-Macklemore,-356,254,254,1953533826
+115,Manuel Turizo,Manuel Turizo,La Bachata,1,Manuel Turizo,Manuel Turizo-Manuel Turizo,622,-288,-288,1214083358
+78,Mariah Carey,Mariah Carey,All I Want for Christmas Is You,1,Mariah Carey,Mariah Carey-Mariah Carey,-699,-147,-147,1449779435
+48,Maroon 5,Maroon 5,Memories,1,Maroon 5,Maroon 5-Maroon 5,-769,645,645,1759567999
+72,Maroon 5,"Maroon 5, Wiz Khalifa",Payphone,2,Maroon 5,Maroon 5-Maroon 5,-769,645,645,1479264469
+72,Maroon 5,"Maroon 5, Wiz Khalifa",Payphone,2,Wiz Khalifa,Maroon 5-Wiz Khalifa,-769,645,645,1479264469
+129,Masked Wolf,Masked Wolf,Astronaut In The Ocean,1,Masked Wolf,Masked Wolf-Masked Wolf,697,-713,-713,1138474110
+93,Miley Cyrus,Miley Cyrus,Flowers,1,Miley Cyrus,Miley Cyrus-Miley Cyrus,-230,777,777,1316855716
+87,Måneskin,Måneskin,Beggin,1,Måneskin,Måneskin-Måneskin,-887,102,102,1367810478
+53,Nate Dogg,"Eminem, Nate Dogg","'Till I Collapse",2,Eminem,Eminem-Nate Dogg,182,936,936,1695712020
+53,Nate Dogg,"Eminem, Nate Dogg","'Till I Collapse",2,Nate Dogg,Nate Dogg-Nate Dogg,182,936,936,1695712020
+55,Nirvana,Nirvana,Smells Like Teen Spirit - Remastered 2021,1,Nirvana,Nirvana-Nirvana,-55,318,318,1690192927
+37,Olivia Rodrigo,Olivia Rodrigo,good 4 u,1,Olivia Rodrigo,Olivia Rodrigo-Olivia Rodrigo,-734,-629,-629,1887039593
+38,Olivia Rodrigo,Olivia Rodrigo,drivers license,1,Olivia Rodrigo,Olivia Rodrigo-Olivia Rodrigo,-734,-629,-629,1858144199
+105,Olivia Rodrigo,Olivia Rodrigo,deja vu,1,Olivia Rodrigo,Olivia Rodrigo-Olivia Rodrigo,-734,-629,-629,1256880657
+131,One Direction,One Direction,Night Changes,1,One Direction,One Direction-One Direction,-632,-402,-402,1131090940
+30,OneRepublic,OneRepublic,Counting Stars,1,OneRepublic,OneRepublic-OneRepublic,-756,-347,-347,2011464183
+140,OneRepublic,OneRepublic,"I Ain't Worried",1,OneRepublic,OneRepublic-OneRepublic,-756,-347,-347,1085685420
+64,Pnau,"Dua Lipa, Elton John, Pnau",Cold Heart - PNAU Remix,3,Dua Lipa,Dua Lipa-Pnau,-568,187,187,1605224506
+64,Pnau,"Dua Lipa, Elton John, Pnau",Cold Heart - PNAU Remix,3,Elton John,Elton John-Pnau,-568,187,187,1605224506
+64,Pnau,"Dua Lipa, Elton John, Pnau",Cold Heart - PNAU Remix,3,Pnau,Pnau-Pnau,-568,187,187,1605224506
+5,Post Malone,"Post Malone, Swae Lee",Sunflower - Spider-Man: Into the Spider-Verse,2,Post Malone,Post Malone-Post Malone,-713,622,622,2808096550
+5,Post Malone,"Post Malone, Swae Lee",Sunflower - Spider-Man: Into the Spider-Verse,2,Swae Lee,Post Malone-Swae Lee,-713,622,622,2808096550
+27,Post Malone,Post Malone,Circles,1,Post Malone,Post Malone-Post Malone,-713,622,622,2132335812
+24,Queen,Queen,Bohemian Rhapsody - Remastered 2011,1,Queen,Queen-Queen,917,596,596,2197010679
+90,Quevedo,"Bizarrap, Quevedo","Quevedo: Bzrp Music Sessions, Vol. 52",2,Bizarrap,Bizarrap-Quevedo,900,-583,-583,1356565093
+90,Quevedo,"Bizarrap, Quevedo","Quevedo: Bzrp Music Sessions, Vol. 52",2,Quevedo,Quevedo-Quevedo,900,-583,-583,1356565093
+101,Radiohead,Radiohead,Creep,1,Radiohead,Radiohead-Radiohead,964,-546,-546,1271293243
+122,Rauw Alejandro,Rauw Alejandro,Todo De Ti,1,Rauw Alejandro,Rauw Alejandro-Rauw Alejandro,570,622,622,1168642797
+33,Ray Dalton,"Ray Dalton, Ryan Lewis, Macklemore","Can't Hold Us (feat. Ray Dalton)",3,Ray Dalton,Ray Dalton-Ray Dalton,-138,82,82,1953533826
+33,Ray Dalton,"Ray Dalton, Ryan Lewis, Macklemore","Can't Hold Us (feat. Ray Dalton)",3,Ryan Lewis,Ray Dalton-Ryan Lewis,-138,82,82,1953533826
+33,Ray Dalton,"Ray Dalton, Ryan Lewis, Macklemore","Can't Hold Us (feat. Ray Dalton)",3,Macklemore,Macklemore-Ray Dalton,-138,82,82,1953533826
+108,Rihanna,"Rihanna, Calvin Harris",We Found Love,2,Rihanna,Rihanna-Rihanna,315,-517,-517,1235005533
+108,Rihanna,"Rihanna, Calvin Harris",We Found Love,2,Calvin Harris,Calvin Harris-Rihanna,315,-517,-517,1235005533
+134,Ruth B.,Ruth B.,Dandelions,1,Ruth B.,Ruth B.-Ruth B.,-888,725,725,1116995633
+33,Ryan Lewis,"Ray Dalton, Ryan Lewis, Macklemore","Can't Hold Us (feat. Ray Dalton)",3,Ray Dalton,Ray Dalton-Ryan Lewis,-735,-24,-24,1953533826
+33,Ryan Lewis,"Ray Dalton, Ryan Lewis, Macklemore","Can't Hold Us (feat. Ray Dalton)",3,Ryan Lewis,Ryan Lewis-Ryan Lewis,-735,-24,-24,1953533826
+33,Ryan Lewis,"Ray Dalton, Ryan Lewis, Macklemore","Can't Hold Us (feat. Ray Dalton)",3,Macklemore,Macklemore-Ryan Lewis,-735,-24,-24,1953533826
+68,SZA,"SZA, Doja Cat",Kiss Me More (feat. SZA),2,SZA,SZA-SZA,-732,613,613,1575467011
+68,SZA,"SZA, Doja Cat",Kiss Me More (feat. SZA),2,Doja Cat,Doja Cat-SZA,-732,613,613,1575467011
+125,SZA,SZA,Kill Bill,1,SZA,SZA-SZA,-732,613,613,1163093654
+63,Sam Smith,Sam Smith,"I'm Not The Only One",1,Sam Smith,Sam Smith-Sam Smith,188,654,654,1606986953
+110,Sam Smith,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),2,Sam Smith,Sam Smith-Sam Smith,188,654,654,1230675890
+110,Sam Smith,"Sam Smith, Kim Petras",Unholy (feat. Kim Petras),2,Kim Petras,Kim Petras-Sam Smith,188,654,654,1230675890
+14,Shawn Mendes,"Shawn Mendes, Camila Cabello",Señorita,2,Shawn Mendes,Shawn Mendes-Shawn Mendes,942,-198,-198,2484812918
+14,Shawn Mendes,"Shawn Mendes, Camila Cabello",Señorita,2,Camila Cabello,Camila Cabello-Shawn Mendes,942,-198,-198,2484812918
+51,Shawn Mendes,Shawn Mendes,"There's Nothing Holdin' Me Back",1,Shawn Mendes,Shawn Mendes-Shawn Mendes,942,-198,-198,1714490998
+135,Silk Sonic,"Bruno Mars, Anderson .Paak, Silk Sonic",Leave The Door Open,3,Bruno Mars,Bruno Mars-Silk Sonic,367,169,169,1115880852
+135,Silk Sonic,"Bruno Mars, Anderson .Paak, Silk Sonic",Leave The Door Open,3,Anderson .Paak,Anderson .Paak-Silk Sonic,367,169,169,1115880852
+135,Silk Sonic,"Bruno Mars, Anderson .Paak, Silk Sonic",Leave The Door Open,3,Silk Sonic,Silk Sonic-Silk Sonic,367,169,169,1115880852
+116,Snoop Dogg,"Dr. Dre, Snoop Dogg",Still D.R.E.,2,Dr. Dre,Dr. Dre-Snoop Dogg,-287,-93,-93,1210599487
+116,Snoop Dogg,"Dr. Dre, Snoop Dogg",Still D.R.E.,2,Snoop Dogg,Snoop Dogg-Snoop Dogg,-287,-93,-93,1210599487
+5,Swae Lee,"Post Malone, Swae Lee",Sunflower - Spider-Man: Into the Spider-Verse,2,Post Malone,Post Malone-Swae Lee,577,326,326,2808096550
+5,Swae Lee,"Post Malone, Swae Lee",Sunflower - Spider-Man: Into the Spider-Verse,2,Swae Lee,Swae Lee-Swae Lee,577,326,326,2808096550
+95,Tainy,"Bad Bunny, Tainy",Callaita,2,Bad Bunny,Bad Bunny-Tainy,-264,-541,-541,1304313953
+95,Tainy,"Bad Bunny, Tainy",Callaita,2,Tainy,Tainy-Tainy,-264,-541,-541,1304313953
+121,Tate McRae,Tate McRae,you broke me first,1,Tate McRae,Tate McRae-Tate McRae,12,379,379,1180094974
+91,Taylor Swift,Taylor Swift,Blank Space,1,Taylor Swift,Taylor Swift-Taylor Swift,-191,-249,-249,1355959075
+136,Taylor Swift,Taylor Swift,Shake It Off,1,Taylor Swift,Taylor Swift-Taylor Swift,-191,-249,-249,1113838873
+117,Tears For Fears,Tears For Fears,Everybody Wants To Rule The World,1,Tears For Fears,Tears For Fears-Tears For Fears,975,150,150,1205951614
+9,The Chainsmokers,"The Chainsmokers, Halsey",Closer,2,The Chainsmokers,The Chainsmokers-The Chainsmokers,245,351,351,2591224264
+9,The Chainsmokers,"The Chainsmokers, Halsey",Closer,2,Halsey,Halsey-The Chainsmokers,245,351,351,2591224264
+23,The Chainsmokers,"The Chainsmokers, Coldplay",Something Just Like This,2,The Chainsmokers,The Chainsmokers-The Chainsmokers,245,351,351,2204080728
+23,The Chainsmokers,"The Chainsmokers, Coldplay",Something Just Like This,2,Coldplay,Coldplay-The Chainsmokers,245,351,351,2204080728
+99,The Goo Goo Dolls,The Goo Goo Dolls,Iris,1,The Goo Goo Dolls,The Goo Goo Dolls-The Goo Goo Dolls,-70,947,947,1284942608
+7,The Kid Laroi,"Justin Bieber, The Kid Laroi",STAY (with Justin Bieber),2,Justin Bieber,Justin Bieber-The Kid Laroi,-971,576,576,2665343922
+7,The Kid Laroi,"Justin Bieber, The Kid Laroi",STAY (with Justin Bieber),2,The Kid Laroi,The Kid Laroi-The Kid Laroi,-971,576,576,2665343922
+43,The Killers,The Killers,Mr. Brightside,1,The Killers,The Killers-The Killers,603,671,671,1806617704
+20,The Neighbourhood,The Neighbourhood,Sweater Weather,1,The Neighbourhood,The Neighbourhood-The Neighbourhood,27,863,863,2282771485
+132,The Neighbourhood,The Neighbourhood,Daddy Issues,1,The Neighbourhood,The Neighbourhood-The Neighbourhood,27,863,863,1127468248
+65,The Police,The Police,Every Breath You Take - Remastered 2003,1,The Police,The Police-The Police,-605,348,348,1593270737
+1,The Weeknd,The Weeknd,Blinding Lights,1,The Weeknd,The Weeknd-The Weeknd,-686,-393,-393,3703895074
+10,The Weeknd,"The Weeknd, Daft Punk",Starboy,2,The Weeknd,The Weeknd-The Weeknd,-686,-393,-393,2565529693
+10,The Weeknd,"The Weeknd, Daft Punk",Starboy,2,Daft Punk,Daft Punk-The Weeknd,-686,-393,-393,2565529693
+34,The Weeknd,The Weeknd,The Hills,1,The Weeknd,The Weeknd-The Weeknd,-686,-393,-393,1947371785
+58,The Weeknd,The Weeknd,Die For You,1,The Weeknd,The Weeknd-The Weeknd,-686,-393,-393,1647990401
+67,The Weeknd,The Weeknd,Save Your Tears,1,The Weeknd,The Weeknd-The Weeknd,-686,-393,-393,1591223784
+77,The Weeknd,The Weeknd,Call Out My Name,1,The Weeknd,The Weeknd-The Weeknd,-686,-393,-393,1449799467
+113,The Weeknd,"Ariana Grande, The Weeknd",Save Your Tears (with Ariana Grande) (Remix),2,Ariana Grande,Ariana Grande-The Weeknd,-686,-393,-393,1221813483
+113,The Weeknd,"Ariana Grande, The Weeknd",Save Your Tears (with Ariana Grande) (Remix),2,The Weeknd,The Weeknd-The Weeknd,-686,-393,-393,1221813483
+143,Tiësto,Tiësto,The Business,1,Tiësto,Tiësto-Tiësto,-286,-957,-957,1062345656
+42,Tom Odell,Tom Odell,Another Love,1,Tom Odell,Tom Odell-Tom Odell,44,358,358,1813673666
+4,Tones and I,Tones and I,Dance Monkey,1,Tones and I,Tones and I-Tones and I,-782,513,513,2864791672
+147,Tyler The Creator,"Tyler The Creator, Kali Uchis",See You Again,3,Tyler The Creator,Tyler The Creator-Tyler The Creator,312,-36,-36,1047101291
+147,Tyler The Creator,"Tyler The Creator, Kali Uchis",See You Again,3,Kali Uchis,Kali Uchis-Tyler The Creator,312,-36,-36,1047101291
+31,Vance Joy,Vance Joy,Riptide,1,Vance Joy,Vance Joy-Vance Joy,338,-9,-9,2009094673
+126,Wham!,Wham!,Last Christmas,1,Wham!,Wham!-Wham!,557,108,108,1159176109
+72,Wiz Khalifa,"Maroon 5, Wiz Khalifa",Payphone,2,Maroon 5,Maroon 5-Wiz Khalifa,-19,220,220,1479264469
+72,Wiz Khalifa,"Maroon 5, Wiz Khalifa",Payphone,2,Wiz Khalifa,Wiz Khalifa-Wiz Khalifa,-19,220,220,1479264469
+6,WizKid,"Drake, WizKid, Kyla",One Dance,3,Drake,Drake-WizKid,-184,945,945,2713922350
+6,WizKid,"Drake, WizKid, Kyla",One Dance,3,WizKid,WizKid-WizKid,-184,945,945,2713922350
+6,WizKid,"Drake, WizKid, Kyla",One Dance,3,Kyla,Kyla-WizKid,-184,945,945,2713922350
+119,XXXTENTACION,XXXTENTACION,Hope,1,XXXTENTACION,XXXTENTACION-XXXTENTACION,-536,-537,-537,1200808494
+151,XXXTENTACION,XXXTENTACION,Revenge,1,XXXTENTACION,XXXTENTACION-XXXTENTACION,-536,-537,-537,1022258230
+120,Zakaria,"GODZZ__-, Zakaria",Contection,2,GODZZ__-,GODZZ__--Zakaria,212,-715,-715,1180896317
+120,Zakaria,"GODZZ__-, Zakaria",Contection,2,Zakaria,Zakaria-Zakaria,212,-715,-715,1180896317
+73,a-ha,a-ha,Take On Me,1,a-ha,a-ha-a-ha,-994,784,784,1479115056
